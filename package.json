@@ -1,0 +1,22 @@
+{
+  "name": "sports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexahanthony/sports.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexahanthony/sports/issues"
+  },
+  "homepage": "https://github.com/alexahanthony/sports#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
